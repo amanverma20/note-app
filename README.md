@@ -1,4 +1,4 @@
-# 🛣️ Highway Delite – Notes App with OTP & Google Authentication
+# Highway Delite – Notes App with OTP & Google Authentication
 
 Highway Delite is a full-stack, mobile-friendly note-taking app that allows users to securely sign up or log in using **Email OTP** or **Google OAuth**. Authenticated users can create and manage personal notes. All protected actions are secured using **JWT authentication**.
 
